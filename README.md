@@ -1,4 +1,4 @@
-<h1 align="center">「😈」About D3m0n1z3dShell </h1>
+<h1 align="center">「😈」About RKiT </h1>
 
 <p align="center"><img src="carbon.png"></p>
 
@@ -7,22 +7,22 @@ Demonized Shell is an Advanced Tool for persistence in linux.
 ### Install
 
 ```
-git clone https://github.com/MatheuZSecurity/D3m0n1z3dShell.git
-cd D3m0n1z3dShell
+git clone https://github.com/EmilioHulbert/RKiT.git
+cd RKiT
 chmod +x demonizedshell.sh
 sudo ./demonizedshell.sh
 ```
 
 ### One-Liner Install
 
-Download D3m0n1z3dShell with all files:
+Download RKiT with all files:
 ```
-curl -L https://github.com/MatheuZSecurity/D3m0n1z3dShell/archive/main.tar.gz | tar xz && cd D3m0n1z3dShell-main && sudo ./demonizedshell.sh
+curl -L https://github.com/EmilioHulbert/RKiT/archive/main.tar.gz | tar xz && cd RKiT-main && sudo ./demonizedshell.sh
 ```
 
-Load D3m0n1z3dShell statically (without the static-binaries directory):
+Load RKiT statically (without the static-binaries directory):
 ```
-sudo curl -s https://raw.githubusercontent.com/MatheuZSecurity/D3m0n1z3dShell/main/static/demonizedshell_static.sh -o /tmp/demonizedshell_static.sh && sudo bash /tmp/demonizedshell_static.sh
+sudo curl -s https://raw.githubusercontent.com/EmilioHulbert/RKiT/main/static/demonizedshell_static.sh -o /tmp/demonizedshell_static.sh && sudo bash /tmp/demonizedshell_static.sh
 ```
 
 ### Demonized Features
@@ -44,7 +44,7 @@ sudo curl -s https://raw.githubusercontent.com/MatheuZSecurity/D3m0n1z3dShell/ma
 
 * [X] Process Injection
 * [x] install for example: curl github.com/test/test/demonized.sh | bash
-* [x] Static D3m0n1z3dShell
+* [x] Static RKiT
 * [x] ELF/Rootkit Anti-Reversing Technique
 * [ ] PAM Backdoor
 * [x] rc.local Persistence
@@ -58,7 +58,7 @@ And other types of features that will come in the future.
 
 ## Contribution
 
-If you want to contribute and help with the tool, please contact me on twitter: @MatheuzSecurity
+If you want to contribute and help with the tool, please contact me on twitter: @EmilioHulbert
 
 ## Note
 
