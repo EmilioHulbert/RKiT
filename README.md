@@ -58,7 +58,7 @@ And other types of features that will come in the future.
 
 ## Contribution
 
-If you want to contribute and help with the tool, please contact me on twitter: @EmilioHulbert
+If you want to contribute and help with the tool, please contact me on twitter: @videquod
 
 ## Note
 
